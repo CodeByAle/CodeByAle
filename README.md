@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @CodeByAle, Alejandro for close friends.
+- 👀 I’m interested in data analysis and junior developer roles.
+- 🌱 I’m currently learning web development while working as a data analyst.
+- 💞️ I’m looking to collaborate on projects related to data analysis and web development.
+- 📫 How to reach me: alejandrohsouza@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: By day, I’m a data analyst, and by night, a freelance web developer!
